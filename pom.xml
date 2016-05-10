@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>am.ik.archetype</groupId>
-    <artifactId>spring-boot-blank</artifactId>
+    <artifactId>spring-boot-maven</artifactId>
     <version>1.0.7-RELEASE</version>
     <packaging>jar</packaging>
 
@@ -18,7 +18,7 @@
    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>xxxxxx.yyyyyy.zzzzzz.App</start-class>
+        <start-class>com.nisum.app</start-class>
         <java.version>1.8</java.version>
         <lombok.version>1.14.8</lombok.version>
         <log4jdbc.log4j2.version>1.16</log4jdbc.log4j2.version>
